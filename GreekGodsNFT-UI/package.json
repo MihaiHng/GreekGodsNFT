@@ -1,0 +1,62 @@
+{
+  "name": "Greek Gods NFT",
+  "version": "1.0.0",
+  "description": "The Greek Gods NFT minting dapp is a quick and easy way to connect with your favourite ancient Gods.",
+  "private": true,
+  "dependencies": {
+    "@tanstack/react-query": "^5.51.23",
+    "@web3modal/ethers": "^5.0.11",
+    "@web3modal/ethers5": "^5.0.11",
+    "@web3modal/wagmi": "^5.0.11",
+    "assert": "^2.1.0",
+    "browserify": "^17.0.0",
+    "browserify-zlib": "^0.2.0",
+    "ethers": "^5.7.2",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^7.2.4",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "stream-http": "^3.2.0",
+    "styled-components": "^5.3.0",
+    "url": "^0.11.4",
+    "viem": "^2.19.7",
+    "wagmi": "^2.12.5",
+    "web-vitals": "^1.0.1",
+    "web3": "^4.11.1",
+    "web3-eth-contract": "^1.5.2"
+  },
+  "author": "Mihai Hanga",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "crypto-browserify": "^3.12.0",
+    "process": "^0.11.10",
+    "react-app-rewired": "^2.2.1",
+    "stream-browserify": "^3.0.0"
+  }
+}
