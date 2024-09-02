@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCd3b70Cd78052b517a7f46ebEb21fFAbE1dCF684",
+  "SCAN_LINK": "https://sepolia.etherscan.io/address/0xCd3b70Cd78052b517a7f46ebEb21fFAbE1dCF684",
+  "NETWORK": {
+    "NAME": "Sepolia",
+    "SYMBOL": "ETH",
+    "ID": 11155111
+  },
+  "NFT_NAME": "Greek Gods NFT",
+  "SYMBOL": "GGNFT",
+  "MAX_SUPPLY": 52,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://https://testnets.opensea.io/collection/greekgodsnft",
+  "SHOW_BACKGROUND": true
+}
